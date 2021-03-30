@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="37.252724mm"
+   height="51.625744mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 3725.2724 5162.5744"
+   id="svg54"
+   sodipodi:docname="1.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"><metadata
+   id="metadata58"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1052"
+   id="namedview56"
+   showgrid="false"
+   inkscape:zoom="2.6822135"
+   inkscape:cx="66.054377"
+   inkscape:cy="82.674783"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg54"
+   inkscape:document-rotation="0" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str1 {stroke:black;stroke-width:33.87}
+    .str2 {stroke:black;stroke-width:42.33}
+    .str0 {stroke:black;stroke-width:84.67}
+    .fil1 {fill:none}
+    .fil0 {fill:#DDDDDD}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Слой_x0020_1"
+   transform="matrix(-1,0,0,1,5977.5835,-1812.563)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <path
+   class="fil0"
+   d="m 2533,2270 c 922,-941 2143,-272 2828,585 100,100 238,337 413,711 7,126 57,351 152,675 27,89 27,162 0,218 -18,28 -91,34 -218,20 -162,-16 -290,-102 -384,-258 -58,-74 -115,-226 -172,-456 -28,-18 -78,-90 -152,-218 -116,-188 -191,-228 -225,-119 -16,199 45,484 185,853 110,254 263,640 456,1158 129,298 204,580 225,847 1,104 -60,157 -185,159 -174,-62 -313,-256 -417,-582 -52,-131 -142,-311 -271,-542 -69,-160 -166,-371 -291,-635 -32,-69 -83,-80 -152,-33 96,258 175,516 238,774 53,216 111,452 172,708 55,134 91,284 106,450 22,209 -37,325 -179,351 -161,-35 -274,-171 -337,-410 -15,-172 -64,-342 -146,-509 -94,-216 -153,-422 -179,-615 -45,-140 -89,-321 -132,-542 -40,-44 -79,-44 -119,0 44,251 88,501 132,747 32,296 72,600 119,913 33,218 -18,344 -152,377 -173,11 -276,-100 -311,-331 -36,-217 -74,-404 -112,-562 -74,-356 -131,-709 -172,-1058 -57,-121 -116,-162 -179,-126 15,198 22,589 20,1171 13,187 -38,297 -152,331 -150,-18 -240,-117 -271,-298 -36,-339 -73,-826 -112,-1462 -49,-274 -111,-570 -185,-886 -130,-542 -77,-1009 159,-1402 z"
+   id="path7" />
+  <path
+   class="fil1 str0"
+   d="m 2522,2270 c -235,393 -288,860 -159,1402 75,317 136,612 185,886 39,635 77,1123 112,1462 31,180 121,280 271,298 115,-34 165,-144 152,-331 2,-582 -5,-973 -20,-1171 62,-37 122,5 179,126 41,350 98,702 172,1058 39,158 76,345 112,562 34,231 138,341 311,331 134,-33 185,-159 152,-377 -47,-313 -87,-617 -119,-913 -44,-247 -89,-496 -132,-747 40,-44 79,-44 119,0 43,222 88,403 132,542 25,194 85,399 179,615 82,168 130,337 146,509 64,239 176,375 337,410 142,-25 201,-142 179,-351 -15,-166 -50,-316 -106,-450 -61,-256 -119,-492 -172,-708 -63,-258 -142,-516 -238,-774 69,-47 120,-36 152,33 125,264 222,475 291,635 129,231 219,412 271,542 104,326 243,520 417,582 125,-2 187,-55 185,-159 -21,-266 -96,-548 -225,-847 -194,-518 -346,-904 -456,-1158 -140,-370 -202,-654 -185,-853 34,-108 109,-69 225,119 74,128 124,201 152,218 57,231 114,383 172,456 94,156 222,242 384,258 127,14 200,8 218,-20 27,-57 27,-130 0,-218 -95,-324 -145,-549 -152,-675 -175,-374 -313,-611 -413,-711 -445,-557 -827,-848 -1144,-873"
+   id="path9" />
+  <path
+   class="fil1 str1"
+   d="m 2627,5663 c 187,22 339,21 457,-1"
+   id="path11" />
+  <path
+   class="fil1 str1"
+   d="m 3476,6281 c 115,-85 272,-107 471,-65"
+   id="path13" />
+  <path
+   class="fil1 str1"
+   d="m 4265,6262 c 175,-109 328,-152 459,-129"
+   id="path15" />
+  <path
+   class="fil1 str1"
+   d="m 5006,5807 c 162,-117 313,-182 451,-195"
+   id="path17" />
+  <path
+   class="fil1 str2"
+   d="m 3292,3676 c 488,245 958,304 1409,179"
+   id="path19" />
+  <path
+   class="fil1 str2"
+   d="m 2484,4221 c 430,-272 935,-346 1516,-221"
+   id="path21" />
+  <path
+   class="fil1 str2"
+   d="m 3332,2518 c 28,400 259,689 695,867"
+   id="path23" />
+  <path
+   class="fil1 str2"
+   d="m 3064,4817 c -88,-77 -233,-116 -435,-114"
+   id="path25" />
+  <path
+   class="fil1 str2"
+   d="m 3243,4943 c 151,-80 316,-109 496,-86"
+   id="path27" />
+  <path
+   class="fil1 str2"
+   d="m 3838,4820 c 214,-4 366,-61 455,-172"
+   id="path29" />
+  <path
+   class="fil1 str2"
+   d="m 4422,4617 c 248,-43 400,-156 456,-341"
+   id="path31" />
+  <path
+   class="fil1 str2"
+   d="m 5141,3765 c 105,-45 231,-65 379,-60"
+   id="path33" />
+  <path
+   class="fil1 str1"
+   d="m 2613,5192 c 195,74 316,73 446,-8 -151,-34 -271,-33 -446,8 z"
+   id="path35" />
+  <path
+   class="fil1 str1"
+   d="m 3330,5551 c 131,-83 303,-114 515,-92"
+   id="path37" />
+  <path
+   class="fil1 str1"
+   d="m 3340,5612 c 246,13 420,-8 521,-64"
+   id="path39" />
+  <path
+   class="fil1 str1"
+   d="m 4027,5595 c 158,-159 333,-216 526,-170"
+   id="path41" />
+  <path
+   class="fil1 str1"
+   d="m 4038,5641 c 225,-16 400,-72 526,-168"
+   id="path43" />
+  <path
+   class="fil1 str1"
+   d="m 4673,5129 c 264,-80 428,-188 491,-321"
+   id="path45" />
+  <path
+   class="fil1 str1"
+   d="m 4720,5235 c 235,-68 398,-172 489,-311"
+   id="path47" />
+  <path
+   class="fil1 str2"
+   d="m 4552,3566 c 128,-30 205,-99 232,-208"
+   id="path49" />
+  <path
+   class="fil1 str2"
+   d="m 5824,3907 c -102,214 -72,398 91,553"
+   id="path51" />
+ </g>
+</svg>
